@@ -33,7 +33,7 @@ The Booking App is a web application designed to streamline the process of booki
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript, React.js
+- **Frontend**: HTML, Tailwind CSS, JavaScript, React.js
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JSON Web Tokens (JWT)
