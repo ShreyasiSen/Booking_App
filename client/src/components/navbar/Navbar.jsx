@@ -9,7 +9,7 @@ const Navbar = ({data}) => {
     < div  className="navbar h-14 ">
         <div className="navContainer flex justify-between items-center text-yellow-50 ">
           <Link to="/" style={{color:"inherit",textDecoration:"none"}}>
-            <div className="logo pt-6 pl-24 font-mono text-lg ">ShreyBooking</div>
+            <div className="logo pt-6 pl-24 font-mono text-lg ">Bookify</div>
           </Link>
         {user ? user.username : (
         <div className=" flex classItems pt-4 px-32">
